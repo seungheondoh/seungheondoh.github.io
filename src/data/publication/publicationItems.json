@@ -1,0 +1,41 @@
+[
+    {
+        "title": "Music Playlist Title Generation: A Machine-Translation Approach",
+        "category": "gen nlp",
+        "year" : "2021",
+        "Authors": "Seungheon Doh, Junwon Lee, Juhan Nam",
+        "bookTitle": "2nd Workshop on Natural Language Processing for Music and Spoken Audio (NLP4MusA), 2021 (submit)",
+        "bookCategory": "Conferences and Workshops",
+        "material" : ""
+    },{
+        "title": "EMOPIA: A Multi-Modal Pop Piano Dataset For Emotion Recognition and Emotion-based Music Generation",
+        "category": "ann_ret gen",
+        "year" : "2021",
+        "Authors": "Hung, Hsiao-Tzu and Ching, Joann and Doh, Seungheon and Kim, Nabin and Nam, Juhan and Yang, Yi-Hsuan",
+        "bookTitle": "Proceedings of the 22nd International Society for Music Information Retrieval Conference (ISMIR), 2021 (accepted)",
+        "bookCategory": "Conferences and Workshops",
+        "material" : ""
+    },{
+        "title": "TräumerAI: Dreaming Music with StyleGAN",
+        "category": "gen cv",
+        "year" : "2021",
+        "Authors": "Dasaem Jeong, Seungheon Doh, and Taegyun Kwon",
+        "bookTitle": "Workshop on Machine Learning for Creativity and Design, Neural Information Processing Systems (NeurIPS), 2020",
+        "bookCategory": "Conferences and Workshops",
+        "material" : {
+            "pdf": "https://arxiv.org/abs/2102.04680",
+            "demo": "https://jdasam.github.io/traeumerAI_demo/"
+        }
+    },{
+        "title": "Musical Word Embedding: Bridging the Gap between Listening Contexts and Music",
+        "category": "ann_ret nlp",
+        "year" : "2020",
+        "Authors": "Seungheon Doh, Jongpil Lee, Tae Hong Park, and Juhan Nam",
+        "bookTitle": "Machine Learning for Media Discovery Workshop, International Conference on Machine Learning (ICML), 2020",
+        "bookCategory": "Conferences and Workshops",
+        "material" : {
+            "pdf": "https://arxiv.org/abs/2008.01190",
+            "demo": "https://dohppak.github.io/MusicWordVec"
+        }
+    }
+]
