@@ -10,12 +10,12 @@ function App() {
             <Switch>
                 <Route
                     exact
-                    path={ `${ process.env.PUBLIC_URL + "/" }` }
+                    path= "/"
                     component={ Home }
                 />
                 <Route
                     exact
-                    path={ `${ process.env.PUBLIC_URL + "/blog" }` }
+                    path= "/blog"
                     component={ Blog }
                 />
                 <Route exact component={ page404 }/>
