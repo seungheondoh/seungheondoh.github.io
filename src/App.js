@@ -6,7 +6,7 @@ import page404 from './pages/404';
 
 function App() {
     return (
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
             <Switch>
                 <Route
                     exact
