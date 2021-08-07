@@ -39,7 +39,7 @@ const page404 = () => {
 
                 <div id="page-content" className="block">
                     <div className="wrapper">
-                        <p className="spacer p-top-lg w-50 m-0">The page you were looking for couldn't be found. The page could be removed or you misspelled the word while searching for it. Maybe try a search?</p>
+                        <p className="spacer p-top-lg w-50 m-0">Sorry, Error page!</p>
 
                         <div className="spacer p-top-xs d-xl-flex d-lg-flex d-md-flex justify-content-between block m-top-extrasmall">
                             <div className="align-self-center w-50">

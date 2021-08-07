@@ -14,7 +14,10 @@
         "Authors": "Hung, Hsiao-Tzu and Ching, Joann and Doh, Seungheon and Kim, Nabin and Nam, Juhan and Yang, Yi-Hsuan",
         "bookTitle": "Proceedings of the 22nd International Society for Music Information Retrieval Conference (ISMIR), 2021 (accepted)",
         "bookCategory": "Conferences and Workshops",
-        "material" : ""
+        "material" : {
+            "pdf": "https://arxiv.org/abs/2108.01374",
+            "demo": "https://annahung31.github.io/EMOPIA//"
+        }
     },{
         "title": "TräumerAI: Dreaming Music with StyleGAN",
         "category": "gen cv",
