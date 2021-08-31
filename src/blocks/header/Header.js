@@ -1,9 +1,9 @@
 import React from 'react';
 
 const Header = () => {
-    console.log("DEBUG")
-    console.log(process.env.PUBLIC_URL)
-    console.log(window.location.href)
+    const current = window.location.href;
+    const baseline = "https://seungheondoh.github.io/";
+    const splitArr = current.split(baseline);
     return (
         <header id="header" className="site-header">
             <div className="wrapper d-flex justify-content-between">
@@ -13,13 +13,13 @@ const Header = () => {
 
                 <nav className="menu-third">
                     <ul className="clearfix list-unstyled">
-                        <li className={ "menu-item" + ( window.location.href === process.env.PUBLIC_URL + '/' ? " current-menu-item" : "" ) }>
+                        <li className={ "menu-item" + ( splitArr[0] === '#/' ? " current-menu-item" : "" ) }>
                             <a 
                                 title="Home"
                                 className="btn btn-link transform-scale-h border-0 p-0"
                                 href="#/">Curriculum Vitae</a>
                         </li>
-                        <li className={ "menu-item" + ( window.location.href === process.env.PUBLIC_URL + '#/blog' ? " current-menu-item" : "" ) }>
+                        <li className={ "menu-item" + ( splitArr[0] === '#/blog' ? " current-menu-item" : "" ) }>
                             <a 
                                 title="blog" 
                                 className="btn btn-link transform-scale-h border-0 p-0"
