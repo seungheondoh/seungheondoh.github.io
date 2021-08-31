@@ -1,26 +1,20 @@
 import React from 'react';
-import { BrowserRouter as Router, Redirect, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Route } from 'react-router-dom';
 import Home from './pages/Home';
 import Blog from './pages/Blog';
-import page404 from './pages/404';
 
 function App() {
     return (
         <Router basename={process.env.PUBLIC_URL}>
-            <Switch>
-                <Route
-                    exact
-                    path= "/"
-                    component={ Home }
-                />
-                <Route
-                    exact
-                    path= "/blog"
-                    component={ Blog }
-                />
-                <Route exact component={ page404 }/>
-                <Redirect to="/" />
-            </Switch>
+            <Route
+                exact
+                path= "/"
+                component={ Home }
+            />
+            <Route
+                path= "/blog"
+                component={ Blog }
+            />
         </Router>
     );
 }

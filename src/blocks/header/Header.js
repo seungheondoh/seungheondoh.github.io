@@ -1,6 +1,7 @@
 import React from 'react';
 
 const Header = () => {
+    console.log(window.location.pathname)
     return (
         <header id="header" className="site-header">
             <div className="wrapper d-flex justify-content-between">
@@ -14,13 +15,13 @@ const Header = () => {
                             <a 
                                 title="Home"
                                 className="btn btn-link transform-scale-h border-0 p-0"
-                                href="/">Curriculum Vitae</a>
+                                href="#/">Curriculum Vitae</a>
                         </li>
-                        <li className={ "menu-item" + ( window.location.pathname === '/blog' ? " current-menu-item" : "" ) }>
+                        <li className={ "menu-item" + ( window.location.pathname === '#/blog' ? " current-menu-item" : "" ) }>
                             <a 
                                 title="blog" 
                                 className="btn btn-link transform-scale-h border-0 p-0"
-                                href="/blog">Blog</a>
+                                href="#/blog">Blog</a>
                         </li>
                     </ul>
                 </nav>
