@@ -1,7 +1,6 @@
 import React from 'react';
 
-const Edu = ({EduInfoData}) => {
-    console.log(EduInfoData);
+const Edu = ({EduInfoData}) => { 
     return (
         <section id="page-content" className="spacer p-bottom-lg">
             <div id="blog">
