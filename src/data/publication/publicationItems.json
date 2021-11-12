@@ -17,7 +17,9 @@
         "Authors": "Seungheon Doh, Junwon Lee, Juhan Nam",
         "bookTitle": "2nd Workshop on Natural Language Processing for Music and Spoken Audio (NLP4MusA), 2021 (accepted)",
         "bookCategory": "Conferences and Workshops",
-        "material" : ""
+        "material" : {
+            "pdf": "https://arxiv.org/abs/2110.07354"
+        }
     },{
         "title": "EMOPIA: A Multi-Modal Pop Piano Dataset For Emotion Recognition and Emotion-based Music Generation",
         "category": "ann_ret gen",
