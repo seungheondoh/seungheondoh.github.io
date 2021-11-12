@@ -6,7 +6,10 @@
         "Authors": "Seungheon Doh, Jongpil Lee, Tae Hong Park, and Juhan Nam",
         "bookTitle": "Late Breaking Demo in the 22st International Society for Music Information Retrieval Conference (ISMIR), 2021",
         "bookCategory": "Conferences and Workshops",
-        "material" : "http://millionsongsearch.kaist.ac.kr/"
+        "material" : {
+            "pdf": "https://archives.ismir.net/ismir2021/latebreaking/000053.pdf",
+            "demo": "http://millionsongsearch.kaist.ac.kr/"
+        }
     },{
         "title": "Music Playlist Title Generation: A Machine-Translation Approach",
         "category": "gen nlp",
