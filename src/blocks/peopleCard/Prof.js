@@ -1,5 +1,6 @@
 import React from 'react';
 import LinkButton from '../../components/button/LinkButton';
+import DownloadButton from '../../components/button/DownloadButton';
 const Prof = ({ProfData}) => { 
     return (
         <section id="page-content" className="spacer">
@@ -14,18 +15,14 @@ const Prof = ({ProfData}) => {
                                         <h4>{item.title}</h4>
                                         <p>{item.describtion} <br/> {item.detail}</p>
                                         <div className="btn_div">
+                                            <DownloadButton 
+                                                keyword = "cv"
+                                                link= {process.env.PUBLIC_URL + `/assets/cv/CV_seungheon(20211114).pdf`}
+                                                position = ""
+                                                textcolor = "has-white-color"
+                                                backgroundcolor = "has-orange-background-color"
+                                            />
                                             {Object.keys(item.material).map((key_name, index) => {
-                                                if (index === 0){
-                                                    return(
-                                                        <LinkButton 
-                                                            keyword = {key_name} 
-                                                            link={item.material[key_name]}
-                                                            position = ""
-                                                            textcolor = "has-white-color"
-                                                            backgroundcolor = "has-gray-dark-background-color"
-                                                        />
-                                                    );
-                                                } else {
                                                     return(
                                                         <LinkButton 
                                                             keyword = {key_name} 
@@ -35,8 +32,7 @@ const Prof = ({ProfData}) => {
                                                             backgroundcolor = "has-gray-dark-background-color"
                                                         />
                                                     );
-                                                }
-                                            })
+                                                })
                                             }
 
                                         </div>
