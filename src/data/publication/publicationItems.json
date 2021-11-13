@@ -51,7 +51,7 @@
         "bookCategory": "Conferences and Workshops",
         "material" : {
             "pdf": "https://arxiv.org/abs/2008.01190",
-            "demo": "https://dohppak.github.io/MusicWordVec"
+            "demo": "https://seungheondoh.github.io/MusicWordVec"
         }
     }
 ]
