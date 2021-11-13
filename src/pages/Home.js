@@ -19,6 +19,9 @@ import ExpInfoData from '../data/experiment/expInfo.json';
 import Edu from "../blocks/education/Edu"
 import EduInfoData from '../data/education/eduInfo.json';
 
+import Ind from "../blocks/industry/Ind"
+import IndInfoData from '../data/industry/indInfo.json';
+
 const Home = () => {
     document.body.classList.add( 'home' );
     document.body.classList.add( 'bg-fixed' );
@@ -45,6 +48,7 @@ const Home = () => {
                 <Prof ProfData={ProfData}/>
                 <News NewsInfoData = {NewsInfoData}/>
                 <PublicationTable/>
+                <Ind IndInfoData = {IndInfoData}/>
                 <Edu EduInfoData = {EduInfoData}/>
                 <Exp ExpInfoData = {ExpInfoData}/>
             </main>

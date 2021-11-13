@@ -3,7 +3,7 @@
         "title": "Million Song Search: Web Interface for Semantic Music Search Using Musical Word Embedding",
         "category": "ann_ret nlp",
         "year" : "2021",
-        "Authors": "Seungheon Doh, Jongpil Lee, Tae Hong Park, and Juhan Nam",
+        "Authors": "Seungheon Doh, Jongpil Lee, and Juhan Nam",
         "bookTitle": "Late Breaking Demo in the 22st International Society for Music Information Retrieval Conference (ISMIR), 2021",
         "bookCategory": "Conferences and Workshops",
         "material" : {
@@ -14,7 +14,7 @@
         "title": "Music Playlist Title Generation: A Machine-Translation Approach",
         "category": "gen nlp",
         "year" : "2021",
-        "Authors": "Seungheon Doh, Junwon Lee, Juhan Nam",
+        "Authors": "Seungheon Doh, Junwon Lee, and Juhan Nam",
         "bookTitle": "2nd Workshop on Natural Language Processing for Music and Spoken Audio (NLP4MusA), 2021 (accepted)",
         "bookCategory": "Conferences and Workshops",
         "material" : {
