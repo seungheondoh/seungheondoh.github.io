@@ -84,6 +84,14 @@ $publicationTable_filter_button_active_color:       #111111;
 $publicationTable_item_text_color:                  #ffffff;
 $publicationTable_item_background_color:            rgba(44, 44, 44, 0.96);
 
+
+$blogTable_filter_button_color:              #747474;
+$blogTable_filter_button_hover_color:        #2b2b2b;
+$blogTable_filter_button_active_color:       #111111;
+
+$blogTable_item_text_color:                  #ffffff;
+$blogTable_item_background_color:            rgba(44, 44, 44, 0.96);
+
 // Modal
 $modal_background_color:                   #ffffff;
 $modal_background_content_color:           transparent;
@@ -106,9 +114,9 @@ $roboto_b:                                 'Roboto-Bold', sans-serif;
 $helvetica:                                'Helvetica Neue', Helvetica, Arial, sans-serif;
 
 $font_primary:                             $helvetica;
-$font_primary_bold:                        $roboto_b;
+$font_primary_bold:                        $helvetica;
 $font_secondary:                           $helvetica;
-$font_secondary_bold:                      $roboto_b;
+$font_secondary_bold:                      $helvetica;
 $font_menu_primary:                        $roboto_b;
 
 //=================================================
