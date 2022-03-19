@@ -20,6 +20,10 @@
             width: 12rem;
             height: 12rem;
             border-radius: 10px;
+
+            @media (max-width: 500px) {
+                display: None;
+              }    
         }
     }
     .student_cardwrapper{

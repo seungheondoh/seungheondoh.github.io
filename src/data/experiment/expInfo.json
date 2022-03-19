@@ -1,8 +1,12 @@
 {
     "Teaching" : [
         {
+            "date":"Sep-2021",
+            "contents":"TA, GCT634 Musical Applications of Machine Learning, KAIST GSCT",
+            "link": ""
+        },{
             "date":"Sep-2020",
-            "contents":"TA, GCT731 Topics in Music Technology: Cognitive Science of Music",
+            "contents":"TA, GCT731 Topics in Music Technology: Cognitive Science of Music, KAIST GSCT",
             "link": ""
         },{
             "date":"Sep-2019",

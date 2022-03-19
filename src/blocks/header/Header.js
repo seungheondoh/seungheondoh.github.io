@@ -25,6 +25,12 @@ const Header = () => {
                                 className="btn btn-link transform-scale-h border-0 p-0"
                                 href="#/blog">Blog</a>
                         </li>
+                        {/* <li className={ "menu-item" + ( splitArr[1] === '#/thesis' ? " current-menu-item" : "" ) }>
+                            <a 
+                                title="thesis" 
+                                className="btn btn-link transform-scale-h border-0 p-0"
+                                href="#/thesis">Thesis</a>
+                        </li> */}
                     </ul>
                 </nav>
             </div>

@@ -22,6 +22,7 @@
     "react-bootstrap": "^1.0.0-beta.16",
     "react-dom": "^16.12.0",
     "react-isotope": "^1.0.7",
+    "react-markdown": "^8.0.1",
     "react-masonry-layout": "^0.4.0",
     "react-meta-tags": "^1.0.1",
     "react-router-dom": "^5.1.2",
@@ -29,6 +30,7 @@
     "react-scroll": "^1.7.16",
     "react-sticky-box": "^0.9.3",
     "react-visibility-sensor": "^5.1.1",
+    "rehype-raw": "^6.1.1",
     "web-vitals": "^1.1.2"
   },
   "scripts": {

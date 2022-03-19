@@ -3,6 +3,7 @@ import MetaTags from 'react-meta-tags';
 
 import Header from '../blocks/header/Header';
 import Footer from '../blocks/footer/Footer';
+import BlogMenu from '../blocks/blogMenu/BlogMenu'
 
 const Blog = () => {
     document.body.classList.add( 'blog' );
@@ -28,7 +29,7 @@ const Blog = () => {
 
             <main id="main" className="site-main">
                 <div className="wrapper">
-                    <p>Comming Soon</p>
+                    <BlogMenu/>
                 </div>
             </main>
 
