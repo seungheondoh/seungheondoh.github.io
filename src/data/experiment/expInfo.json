@@ -26,15 +26,11 @@
             "link": "https://github.com/Dohppak/Pycon_Tutorial_Music_DeepLearing"
         }
     ],
-    "Experience" : [
+    "Service" : [
         {
             "date":"Sep-2020",
             "contents":"Korean translator, NYU Deep Learning DS-GA 1008, Yann LeCun & Alfredo Canziani",
             "link": "https://github.com/Atcold/pytorch-Deep-Learning"
-        },{
-            "date":"Feb-2020",
-            "contents":"Visiting Student, Music and Audio Research Laboratory, New York University, United States",
-            "link": ""
         }
     ]
 }

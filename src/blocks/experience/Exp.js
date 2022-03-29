@@ -2,18 +2,18 @@ import React from 'react';
 import LinkButton from '../../components/button/LinkButton'
 
 const Exp = ({ExpInfoData}) => {
-    const Experience = ExpInfoData['Experience']
+    const Service = ExpInfoData['Service']
     const Talk = ExpInfoData['Talk']
     const Teaching = ExpInfoData['Teaching']
     return (
         <section id="page-content" className="spacer p-bottom-lg">
             <div id="blog">
                 <div className="wrapper">
-                    <h4>Experience, Talk, Teaching</h4>
+                    <h4>Service, Talk, Teaching</h4>
                     <div className="experience">
-                    <h6>Experience</h6>
+                    <h6>Service</h6>
                     
-                    {Experience.map((item) => {
+                    {Service.map((item) => {
                         if (item.link === ""){
                             return (
                                 <>

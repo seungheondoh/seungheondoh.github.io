@@ -1,5 +1,25 @@
 [
     {
+        "title": "Speech-to-Music Cross-Modal Retrieval Using Emotion Labels",
+        "category": "ann_ret audio",
+        "year" : "2021",
+        "Authors": "Seungheon Doh, Minz Won, Keunwoo Choi, Juhan Nam",
+        "bookTitle": "Proceedings of the 23rd Conference of the International Speech Communication Association (Interspeech), 2022 (submit)",
+        "bookCategory": "Conferences and Workshops",
+        "material" : {
+            "demo": "https://seungheondoh.github.io/speech_to_music_demo/"
+        }
+    },{
+        "title": "Hi, KIA: A Speech Emotion Recognition Dataset for Wake-Up Words",
+        "category": "ann_ret",
+        "year" : "2021",
+        "Authors": "Taesu Kim*, Seungheon Doh*, Gyunpyo Lee, Hyung seok Jun, Juhan Nam, Hyeon-Jeong Suk (*equally contribution)",
+        "bookTitle": "Proceedings of the 23rd Conference of the International Speech Communication Association (Interspeech), 2022 (submit)",
+        "bookCategory": "Conferences and Workshops",
+        "material" : {
+            "dataset": "https://zenodo.org/record/6372815"
+        }
+    },{
         "title": "Million Song Search: Web Interface for Semantic Music Search Using Musical Word Embedding",
         "category": "ann_ret nlp",
         "year" : "2021",

@@ -22,5 +22,9 @@
         "id": "5",
         "title": "Vision & Music",
         "filter": "cv"
+    },{
+        "id": "6",
+        "title": "Audio & Music",
+        "filter": "audio"
     }
 ]

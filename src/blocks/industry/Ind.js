@@ -5,7 +5,7 @@ const Ind = ({IndInfoData}) => {
         <section id="page-content" className="spacer p-bottom-lg">
             <div id="blog">
                 <div className="industry wrapper">
-                    <h4>Industry Experience</h4>
+                    <h4>Experience</h4>
                     <div className="eduacation">
                     { IndInfoData.map((item) => {
                             return (

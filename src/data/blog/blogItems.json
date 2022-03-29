@@ -4,6 +4,7 @@
         "title": "Speech to Music through Emotion",
         "decs": "Automatic speech emotion recognition (SER) can be used as a music recommendation application for content creators. In this paper, our goal is to help creators find music to match the emotion of their speech.",
         "category": "research",
+        "url": "https://seungheondoh.github.io/speech_to_music_demo/",
         "year" : "2022"
     }
 ]
