@@ -13,14 +13,16 @@ const Prof = ({ProfData}) => {
                                     <img className="prof_img" src={process.env.PUBLIC_URL + `/assets/img/people/`+ item.img} alt={item.title}/>
                                     <div className="info_div">
                                         <h4>{item.title}</h4>
-                                        <p>{item.describtion} <br/> {item.detail}</p>
+                                        <p> I'm a Ph.D Student at <a href='https://mac.kaist.ac.kr/'>Music and Audio Computing Lab</a>, advised by <a href="https://mac.kaist.ac.kr/~juhan/">Prof. Juhan Nam</a>. <br/> 
+                                        I'm working on Music and Machine Learning. In particular, my research interests focus on bridging the gap between music and multi-media: multimodal music retrieval and multimedia generation.
+                                        </p>
                                         <div className="btn_div">
                                             <DownloadButton 
                                                 keyword = "cv"
                                                 link= {process.env.PUBLIC_URL + `/assets/cv/CV_seungheon(20220329).pdf`}
                                                 position = ""
                                                 textcolor = "has-white-color"
-                                                backgroundcolor = "has-orange-background-color"
+                                                backgroundcolor = "has-olive-background-color"
                                             />
                                             {Object.keys(item.material).map((key_name, index) => {
                                                     return(

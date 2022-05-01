@@ -1,4 +1,5 @@
 import React from 'react';
+import LinkButton from '../../components/button/LinkButton';
 
 const News = ({NewsInfoData}) => {
     return (
@@ -17,7 +18,14 @@ const News = ({NewsInfoData}) => {
                         } else {
                             return (
                                 <>
-                                    <li>{item.date}, <a href={item.link}>[Link]</a></li>
+                                    <li> {item.date} | {item.contents} 
+                                    <LinkButton keyword = "Link"
+                                        link={item.link}
+                                        position = "inline"
+                                        textcolor = "has-white-color"
+                                        backgroundcolor = "has-gray-dark-background-color"
+                                    />
+                                    </li>
                                 </>
                             );
                         }
