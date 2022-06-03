@@ -6,7 +6,7 @@
         "category": "research",
         "url": "https://seungheondoh.github.io/speech_to_music_demo/",
         "year" : "2022"
-    }, {
+    },{
         "_id": "musical_word_embedding",
         "title": "Musical Word Embedding for Music Annotation and Retrieval",
         "decs": "Musical Word Embedding use a wide spectrum of text corpus from general to music-specific words and defining musical specificity of the corpus as a measure of how the semantics of words is specific to the songs or far from it.",
