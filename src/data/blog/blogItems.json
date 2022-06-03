@@ -9,7 +9,7 @@
     }, {
         "_id": "musical_word_embeddding",
         "title": "Musical Word Embedding for Music Annotation and Retrieval",
-        "decs": "Musical Word Embedding use a wide spectrum of text corpus from general to music-specific words and defining musical specificity of the corpus as a measure of how the semantics of words is specific to the songs or far from it. Through the four different types of experiments, we showed that our model successfully bridges the different types of musical specific word with songs.",
+        "decs": "Musical Word Embedding use a wide spectrum of text corpus from general to music-specific words and defining musical specificity of the corpus as a measure of how the semantics of words is specific to the songs or far from it.",
         "category": "research",
         "url": "https://seungheondoh.github.io/musical_word_embeddding_demo/",
         "year" : "2022"
