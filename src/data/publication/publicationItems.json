@@ -35,7 +35,7 @@
         "category": "gen nlp",
         "year" : "2021",
         "Authors": "Seungheon Doh, Junwon Lee, and Juhan Nam",
-        "bookTitle": "2nd Workshop on Natural Language Processing for Music and Spoken Audio (NLP4MusA), 2021 (accepted)",
+        "bookTitle": "2nd Workshop on Natural Language Processing for Music and Spoken Audio (NLP4MusA), 2021",
         "bookCategory": "Conferences and Workshops",
         "material" : {
             "pdf": "https://arxiv.org/abs/2110.07354"
@@ -45,7 +45,7 @@
         "category": "ann_ret gen",
         "year" : "2021",
         "Authors": "Hung, Hsiao-Tzu and Ching, Joann and Doh, Seungheon and Kim, Nabin and Nam, Juhan and Yang, Yi-Hsuan",
-        "bookTitle": "Proceedings of the 22nd International Society for Music Information Retrieval Conference (ISMIR), 2021 (accepted)",
+        "bookTitle": "Proceedings of the 22nd International Society for Music Information Retrieval Conference (ISMIR), 2021",
         "bookCategory": "Conferences and Workshops",
         "material" : {
             "pdf": "https://arxiv.org/abs/2108.01374",
