@@ -19,7 +19,7 @@ const Prof = ({ProfData}) => {
                                         <div className="btn_div">
                                             <DownloadButton 
                                                 keyword = "cv"
-                                                link= {process.env.PUBLIC_URL + `/assets/cv/CV_seungheon(20220329).pdf`}
+                                                link= {process.env.PUBLIC_URL + `/assets/cv/CV_seungheon.pdf`}
                                                 position = ""
                                                 textcolor = "has-white-color"
                                                 backgroundcolor = "has-olive-background-color"

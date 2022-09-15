@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "institution": "CILVR: Computational Intelligence, Vision, and Robotics Lab",
+        "institution": "Computational Intelligence, Vision, and Robotics Lab (CILVR)",
         "location": "Center for Data Science, New York University, United States",
         "position": "Visiting Student",
         "duration": "Jun 2022 - Aug 2022",
@@ -15,10 +15,10 @@
         "advisor": " (Advisor: Keunwoo Choi, Minz Won)"
     },{
         "id": "3",
-        "institution": "MARL: Music and Audio Research Laboratory",
+        "institution": "Music and Audio Research Laboratory (MARL)",
         "location": "Steinhardt, New York University, United States",
         "position": "Visiting Student",
         "duration": "Dec 2019 - Feb 2020",
-        "advisor": "(Collaborate with Prof. TaeHong Park)"
+        "advisor": "(Advisor: TaeHong Park)"
     }
 ]
