@@ -1,11 +1,18 @@
 [
     {
-        "_id": "speech_to_music",
+        "_id": "toward2023doh",
+        "title": "Toward Unified Text-to-Music Retrieval",
+        "decs": "This paper introduces effective design choices for text-to-music retrieval systems. An ideal text-based retrieval system would support various input queries such as pre-defined tags, unseen tags, and sentence-level descriptions.",
+        "category": "research",
+        "url": "https://seungheondoh.github.io/text-music-representation-demo/",
+        "year" : "2023"
+    },{
+        "_id": "speech2023doh",
         "title": "Speech to Music through Emotion",
         "decs": "Automatic speech emotion recognition (SER) can be used as a music recommendation application for content creators. In this paper, our goal is to help creators find music to match the emotion of their speech.",
         "category": "research",
-        "url": "https://seungheondoh.github.io/speech_to_music_demo/",
-        "year" : "2022"
+        "url": "https://seungheondoh.github.io/speech-to-music-demo/",
+        "year" : "2023"
     },{
         "_id": "musical_word_embedding",
         "title": "Musical Word Embedding for Music Annotation and Retrieval",

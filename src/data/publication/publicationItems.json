@@ -1,8 +1,18 @@
 [
     {
-        "title": "Speech-to-Music Cross-Modal Retrieval Using Emotion Labels",
+        "title": "Toward unified text-music representation learning",
+        "category": "ann_ret nlp",
+        "year" : "2023",
+        "Authors": "Seungheon Doh, Minz Won, Keunwoo Choi, Juhan Nam",
+        "bookTitle": "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023 (submit)",
+        "bookCategory": "Conferences and Workshops",
+        "material" : {
+            "demo": "https://seungheondoh.github.io/text-music-representation-demo/"
+        }
+    },{
+        "title": "Textless Speech-to-Music Retrieval Using Emotion Similarity",
         "category": "ann_ret audio",
-        "year" : "2021",
+        "year" : "2023",
         "Authors": "Seungheon Doh, Minz Won, Keunwoo Choi, Juhan Nam",
         "bookTitle": "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023 (submit)",
         "bookCategory": "Conferences and Workshops",
@@ -11,8 +21,8 @@
         }
     },{
         "title": "Hi, KIA: A Speech Emotion Recognition Dataset for Wake-Up Words",
-        "category": "ann_ret",
-        "year" : "2021",
+        "category": "ann_ret audio",
+        "year" : "2022",
         "Authors": "Taesu Kim*, Seungheon Doh*, Gyunpyo Lee, Hyung seok Jun, Juhan Nam, Hyeon-Jeong Suk (*equally contribution)",
         "bookTitle": "Proceedings of the 14th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA), 2022",
         "bookCategory": "Conferences and Workshops",
