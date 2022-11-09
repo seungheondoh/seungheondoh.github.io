@@ -1,6 +1,6 @@
 [
     {
-        "title": "Toward unified text-music representation learning",
+        "title": "Toward Universal Text-to-Music Retrieval",
         "category": "ann_ret nlp",
         "year" : "2023",
         "Authors": "Seungheon Doh, Minz Won, Keunwoo Choi, Juhan Nam",
@@ -27,6 +27,7 @@
         "bookTitle": "Proceedings of the 14th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA), 2022",
         "bookCategory": "Conferences and Workshops",
         "material" : {
+            "pdf": "https://arxiv.org/abs/2211.03371",
             "dataset": "https://zenodo.org/record/6989810"
         }
     },{
