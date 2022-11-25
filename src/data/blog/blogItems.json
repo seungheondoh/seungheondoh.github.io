@@ -1,7 +1,7 @@
 [
     {
         "_id": "toward2023doh",
-        "title": "Toward Unified Text-to-Music Retrieval",
+        "title": "Toward Universal Text-to-Music Retrieval",
         "decs": "This paper introduces effective design choices for text-to-music retrieval systems. An ideal text-based retrieval system would support various input queries such as pre-defined tags, unseen tags, and sentence-level descriptions.",
         "category": "research",
         "url": "https://seungheondoh.github.io/text-music-representation-demo/",
