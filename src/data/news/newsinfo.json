@@ -1,15 +1,19 @@
 [
     {
-        "date":"Nov-2022",
-        "contents":"Three Papers have been submitted to ICASSP 2023 (Proceedings)",
+        "date":"Feb-2023",
+        "contents":"Two Papers have been accepted to ICASSP 2023 (Proceedings)",
         "link": ""
+    },{
+        "date":"Dec-2022",
+        "contents":"I'm starting a research internship at NaverCorp (Now AI Team). Collaborate with Jeong Choi",
+        "link": "https://scholar.google.co.kr/citations?user=0r1yuiMAAAAJ&hl=ko"
     },{
         "date":"Sep-2022",
         "contents":"One Paper has been accepted to APSIPA 2022 (Proceedings)",
         "link": ""
     },{
         "date":"May-2022",
-        "contents":"As a visiting ph.D student, I will visit the NYU Data Science Center. I plan to collaborate with Prof. Kyunghyun Cho.",
+        "contents":"As a visiting ph.D student, I will visit the NYU Data Science Center. Collaborate with Prof. Kyunghyun Cho.",
         "link": "https://kyunghyuncho.me/"
     },{
         "date":"Nov-2021",
@@ -17,7 +21,7 @@
         "link": ""
     },{
         "date":"Jul-2021",
-        "contents":"I'm starting a research internship at ByteDance (Speech, Audio, and Music Intelligence Team).",
-        "link": ""
+        "contents":"I'm starting a research internship at ByteDance (Speech, Audio, and Music Intelligence Team). Collaborate with Keunwoo Choi, and MinzWon",
+        "link": "https://keunwoochoi.github.io/"
     }
 ]
