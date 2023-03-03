@@ -1,5 +1,9 @@
 [
     {
+        "date":"Mar-2023",
+        "contents":"My master thesis: Musical Word Embedding for Music Tagging and Retrieval has been submitted to IEEE Transactions on Multimedia",
+        "link": ""
+    },{
         "date":"Feb-2023",
         "contents":"Two Papers have been accepted to ICASSP 2023 (Proceedings)",
         "link": ""
@@ -8,17 +12,9 @@
         "contents":"I'm starting a research internship at NaverCorp (Now AI Team). Collaborate with Jeong Choi",
         "link": "https://scholar.google.co.kr/citations?user=0r1yuiMAAAAJ&hl=ko"
     },{
-        "date":"Sep-2022",
-        "contents":"One Paper has been accepted to APSIPA 2022 (Proceedings)",
-        "link": ""
-    },{
         "date":"May-2022",
         "contents":"As a visiting ph.D student, I will visit the NYU Data Science Center. Collaborate with Prof. Kyunghyun Cho.",
         "link": "https://kyunghyuncho.me/"
-    },{
-        "date":"Nov-2021",
-        "contents":"Three papers have been accepted to ISMIR 2021 (Proceedings, NLP4Musa, LBD Session).",
-        "link": ""
     },{
         "date":"Jul-2021",
         "contents":"I'm starting a research internship at ByteDance (Speech, Audio, and Music Intelligence Team). Collaborate with Keunwoo Choi, and MinzWon",

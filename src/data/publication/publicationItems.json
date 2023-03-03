@@ -32,16 +32,6 @@
             "pdf": "https://arxiv.org/abs/2301.08145"
         }
     },{
-        "title": "Hierarchical Classification of Environmental Sounds with Few-shot Learning",
-        "category": "ann_ret audio",
-        "year" : "2023",
-        "Authors": "Youngjun Choi, SeungHeon Doh, Juhan Nam, Jinjoon Lee",
-        "bookTitle": "ArXiv",
-        "bookCategory": "Conferences and Workshops",
-        "material" : {
-            "updated soon":"#"
-        }
-    },{
         "title": "Hi, KIA: A Speech Emotion Recognition Dataset for Wake-Up Words",
         "category": "ann_ret audio",
         "year" : "2022",

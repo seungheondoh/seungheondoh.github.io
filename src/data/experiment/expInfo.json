@@ -1,6 +1,14 @@
 {
     "Teaching" : [
         {
+            "date":"Mar-2023",
+            "contents":"TA, GCT731 Topics in Music Technology: Generative AI for Music, KAIST GSCT",
+            "link": ""
+        },{
+            "date":"Sep-2022",
+            "contents":"TA, GCT634 Musical Applications of Machine Learning, KAIST GSCT",
+            "link": ""
+        },{
             "date":"Sep-2021",
             "contents":"TA, GCT634 Musical Applications of Machine Learning, KAIST GSCT",
             "link": ""
@@ -17,6 +25,14 @@
     ],
     "Talk" : [
         {
+            "date":"Mar-2023",
+            "contents":"Multimodal Music Retrieval for Listener and Contents Creator, Seoul Univ. MARG",
+            "link": ""
+        },{
+            "date":"Dec-2022",
+            "contents":"Music Informational Retrieval with Natural Language Processing, YONSEI Univ.",
+            "link": ""
+        },{
             "date":"May-2020",
             "contents":"Digital Signal Processing and Speech Recognition, SK planet",
             "link": "https://www.youtube.com/watch?v=RxbkEjV7c0o&t=111s"
