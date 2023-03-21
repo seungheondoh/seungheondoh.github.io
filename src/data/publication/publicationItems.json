@@ -19,6 +19,7 @@
         "bookTitle": "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023",
         "bookCategory": "Conferences and Workshops",
         "material" : {
+            "pdf": "https://arxiv.org/abs/2303.10539",
             "demo": "https://seungheondoh.github.io/speech-to-music-demo/"
         }
     },{
