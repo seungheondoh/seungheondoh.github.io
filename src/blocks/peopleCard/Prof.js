@@ -14,8 +14,9 @@ const Prof = ({ProfData}) => {
                                     <div className="info_div">
                                         <h4>{item.title}</h4>
                                         <p> I'm a Ph.D Student at <a href='https://mac.kaist.ac.kr/'>Music and Audio Computing Lab</a>, advised by <a href="https://mac.kaist.ac.kr/~juhan/">Prof. Juhan Nam</a>. <br/> 
-                                        I'm working on Music and Machine Learning. In particular, my research interests focus on bridging the gap between music and multi-media: multimodal music retrieval and multimedia generation.
+                                        I'm working on Music and Machine Learning. My research focuses on machine's ability to listen to music, express music experience in natural language, and imagine visuals. My research primarily revolves around the field of representation learning between music and multimodal media.
                                         </p>
+
                                         <div className="btn_div">
                                             <DownloadButton 
                                                 keyword = "cv"
