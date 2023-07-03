@@ -1,5 +1,15 @@
 [
     {
+        "title": "LP-MusicCaps: LLM-based Pseudo Music Captioning",
+        "category": "ann_ret nlp",
+        "year" : "2023",
+        "Authors": "Seungheon Doh, Keunwoo Choi, Jongpil Lee, Juhan Nam",
+        "bookTitle": "Proceedings of the 24nd International Society for Music Information Retrieval Conference (ISMIR), 2023",
+        "bookCategory": "Conferences and Workshops",
+        "material" : {
+            "pdf": "#"
+        }
+    },{
         "title": "Toward Universal Text-to-Music Retrieval",
         "category": "ann_ret nlp",
         "year" : "2023",
@@ -24,7 +34,7 @@
         }
     },{
         "title": "Music Playlist Title Generation Using Artist Information",
-        "category": "gen nlp",
+        "category": "ann_ret nlp",
         "year" : "2023",
         "Authors": "Haven Kim, Seungheon Doh, Junwon Lee, Juhan Nam",
         "bookTitle": "AAAI-23 Workshop on Creative AI Across Modalities",
@@ -56,7 +66,7 @@
         }
     },{
         "title": "Music Playlist Title Generation: A Machine-Translation Approach",
-        "category": "gen nlp",
+        "category": "ann_ret nlp",
         "year" : "2021",
         "Authors": "SeungHeon Doh, Junwon Lee, and Juhan Nam",
         "bookTitle": "2nd Workshop on Natural Language Processing for Music and Spoken Audio (NLP4MusA), 2021",
