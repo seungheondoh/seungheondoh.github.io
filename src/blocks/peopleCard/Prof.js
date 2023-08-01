@@ -23,7 +23,7 @@ const Prof = ({ProfData}) => {
                                                 link= {process.env.PUBLIC_URL + `/assets/cv/CV_seungheon.pdf`}
                                                 position = ""
                                                 textcolor = "has-white-color"
-                                                backgroundcolor = "has-olive-background-color"
+                                                backgroundcolor = "has-beige-background-color"
                                             />
                                             {Object.keys(item.material).map((key_name, index) => {
                                                     return(
