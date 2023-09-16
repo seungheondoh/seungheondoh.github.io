@@ -88,7 +88,7 @@ class PublicationTable extends Component {
                                 return (
                                     <div key={ key } title={ item.title } className={ "publicationTable-item active " + item.category }>
                                         <h6>{ item.title }</h6>
-                                        <p>{ item.Authors }</p>
+                                        <p className='no-line-hight'>{ item.Authors }</p>
                                         <p className="date">{ item.bookTitle }</p>
                                     </div>
                                 );
@@ -96,7 +96,7 @@ class PublicationTable extends Component {
                                 return (
                                     <div key={ key } title={ item.title } className={ "publicationTable-item active " + item.category }>
                                         <h6>{ item.title }</h6>
-                                        <p>{ item.Authors }</p>
+                                        <p className='no-line-hight'>{ item.Authors }</p>
                                         <p className="date">{ item.bookTitle }</p>
                                         {Object.keys(item.material).map((key_name, index) => {
                                             if (index === 0){

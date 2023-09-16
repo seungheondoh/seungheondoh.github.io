@@ -184,7 +184,6 @@ p {
             }
         }
     }
-
     &.p-small {
         font-size: 0.81rem;
     }
@@ -446,6 +445,11 @@ p.date {
     }
 }
 
+p.no-line-hight{
+    line-height: 1rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.7rem !important;
+}
 /*=============================
 // Text format
 =============================*/

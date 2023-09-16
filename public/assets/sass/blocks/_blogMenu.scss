@@ -48,8 +48,8 @@ ul.blogTable-filter {
 // blogTable item wrapper
 =============================*/
 .blogTable-wrapper{
-    padding-left: 10rem;
-    padding-right: 10rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
 }
 .blogTable-item-wrapper {
     // blogTable items
@@ -72,8 +72,8 @@ ul.blogTable-filter {
             }
         }
         .img_div{
-            width: 250px;
-            height: 125px;
+            width: 35rem !important;
+            height: 12rem !important; 
             object-fit: cover;
             margin-right: 1rem;
         }

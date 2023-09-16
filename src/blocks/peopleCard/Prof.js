@@ -13,7 +13,7 @@ const Prof = ({ProfData}) => {
                                     <img className="prof_img" src={process.env.PUBLIC_URL + `/assets/img/people/`+ item.img} alt={item.title}/>
                                     <div className="info_div">
                                         <h4>{item.title}</h4>
-                                        <p> I'm a Ph.D Student at <a href='https://mac.kaist.ac.kr/'>Music and Audio Computing Lab</a>, advised by <a href="https://mac.kaist.ac.kr/~juhan/">Prof. Juhan Nam</a>. <br/> 
+                                        <p className='p'> I'm a Ph.D Student at <a href='https://mac.kaist.ac.kr/'>Music and Audio Computing Lab</a>, advised by <a href="https://mac.kaist.ac.kr/~juhan/">Prof. Juhan Nam</a>. <br/> 
                                         I'm working on Music and Machine Learning, with a specific focus on advancing our understanding of machines' ability to perceive music, articulate musical experiences using natural language, and generate visual representations. My primary research efforts are concentrated on advancing the domain of representation learning for music and multimodal media
                                         </p>
 
