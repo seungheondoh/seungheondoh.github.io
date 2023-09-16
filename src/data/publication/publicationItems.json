@@ -33,16 +33,6 @@
             "update soon": "#"
         }
     },{
-        "title": "Annotator Subjectivity in the MusicCaps Dataset",
-        "category": "ann_ret nlp",
-        "year" : "2023",
-        "Authors": "Minhee Lee, Seungheon Doh and Dasaem Jeong",
-        "bookTitle": "2nd Workshop on Human-Centric Music Information Research (HCMIR), 2023",
-        "bookCategory": "Conferences and Workshops",
-        "material" : {
-            "update soon": "#"
-        }
-    },{
         "title": "Toward Universal Text-to-Music Retrieval",
         "category": "ann_ret nlp",
         "year" : "2023",
@@ -65,48 +55,6 @@
         "material" : {
             "pdf": "https://arxiv.org/abs/2303.10539",
             "demo": "https://seungheondoh.github.io/speech-to-music-demo/"
-        }
-    },{
-        "title": "Music Playlist Title Generation Using Artist Information",
-        "category": "ann_ret nlp",
-        "year" : "2023",
-        "Authors": "Haven Kim, Seungheon Doh, Junwon Lee, Juhan Nam",
-        "bookTitle": "AAAI-23 Workshop on Creative AI Across Modalities",
-        "bookCategory": "Conferences and Workshops",
-        "material" : {
-            "pdf": "https://arxiv.org/abs/2301.08145"
-        }
-    },{
-        "title": "Hi, KIA: A Speech Emotion Recognition Dataset for Wake-Up Words",
-        "category": "ann_ret audio",
-        "year" : "2022",
-        "Authors": "Taesu Kim*, Seungheon Doh*, Gyunpyo Lee, Hyung seok Jun, Juhan Nam, Hyeon-Jeong Suk (*equally contribution)",
-        "bookTitle": "Proceedings of the 14th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA), 2022",
-        "bookCategory": "Conferences and Workshops",
-        "material" : {
-            "pdf": "https://arxiv.org/abs/2211.03371",
-            "dataset": "https://zenodo.org/record/6989810"
-        }
-    },{
-        "title": "Million Song Search: Web Interface for Semantic Music Search Using Musical Word Embedding",
-        "category": "ann_ret nlp",
-        "year" : "2021",
-        "Authors": "SeungHeon Doh, Jongpil Lee, and Juhan Nam",
-        "bookTitle": "Late Breaking Demo in the 22st International Society for Music Information Retrieval Conference (ISMIR), 2021",
-        "bookCategory": "Conferences and Workshops",
-        "material" : {
-            "pdf": "https://archives.ismir.net/ismir2021/latebreaking/000053.pdf",
-            "demo": "http://millionsongsearch.kaist.ac.kr/"
-        }
-    },{
-        "title": "Music Playlist Title Generation: A Machine-Translation Approach",
-        "category": "ann_ret nlp",
-        "year" : "2021",
-        "Authors": "SeungHeon Doh, Junwon Lee, and Juhan Nam",
-        "bookTitle": "2nd Workshop on Natural Language Processing for Music and Spoken Audio (NLP4MusA), 2021",
-        "bookCategory": "Conferences and Workshops",
-        "material" : {
-            "pdf": "https://arxiv.org/abs/2110.07354"
         }
     },{
         "title": "EMOPIA: A Multi-Modal Pop Piano Dataset For Emotion Recognition and Emotion-based Music Generation",

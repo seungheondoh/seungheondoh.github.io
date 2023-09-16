@@ -56,7 +56,7 @@ class PublicationTable extends Component {
         return (
             <div className="publicationTable spacer p-bottom-lg">
                 <div className="wrapper">
-                    <h4>Publications</h4>
+                    <h4>Selected Publications</h4>
                     <ul className="publicationTable-filter">
                         { this.state.list.map( ( item, key ) => (
                             <React.Fragment key={ key }>
@@ -127,6 +127,7 @@ class PublicationTable extends Component {
                             }
                         })}
                     </div>
+                    <h6 className='margin'>More Publication @ <a className='active-color' href='https://scholar.google.com/citations?user=MCkggcgAAAAJ&hl=en'> Google Scholar</a> Page</h6>
                 </div>
                 </div>
             </div>

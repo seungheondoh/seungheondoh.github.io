@@ -114,6 +114,12 @@ h6 {
     }
 }
 
+h6.margin{
+    font-size: 0.95rem;
+    line-height: 1rem;
+    margin-top: 2rem;
+}
+
 /*=============================
 // Customizing headings
 =============================*/
@@ -256,7 +262,9 @@ strong, b {
         }
     }
 }
-
+a.active-color{
+    color: #865F00;
+}
 /*=============================
 // Blockquote
 =============================*/
