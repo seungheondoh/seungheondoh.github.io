@@ -2,9 +2,9 @@
     {
         "_id": "enrich2024doh",
         "title": "TTMR++: Enriching Music Descriptions with a Finetuned-LLM and Metadata",
-        "decs": "this paper proposes an improved Text-to-Music Retrieval model, denoted as TTMR++, which utilizes rich text descriptions generated with a finetuned large language model and metadata.",
+        "decs": "This paper proposes an improved Text-to-Music Retrieval model, denoted as TTMR++, which utilizes rich text descriptions generated with a finetuned large language model and metadata.",
         "category": "research",
-        "url": "https://seungheondoh.github.io/text-music-representation-demo-pp/",
+        "url": "https://seungheondoh.github.io/music-text-representation-pp-demo/",
         "year" : "2024"
     },{
         "_id": "lp2023doh",
