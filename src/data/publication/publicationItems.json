@@ -7,7 +7,7 @@
         "bookTitle": "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024 (Submitted)",
         "bookCategory": "Conferences and Workshops",
         "material" : {
-            "update soon": "#"
+            "demo": "https://seungheondoh.github.io/music-text-representation-pp-demo/"
         }
     },{
         "title": "LP-MusicCaps: LLM-based Pseudo Music Captioning",
@@ -21,16 +21,6 @@
             "code": "https://github.com/seungheondoh/lp-music-caps",
             "dataset": "https://huggingface.co/papers/2307.16372",
             "demo": "https://huggingface.co/spaces/seungheondoh/LP-Music-Caps-demo"
-        }
-    },{
-        "title": "MuLaB: a Benchmark Suite and Toolkit for Evaluating Music-and-Language Models",
-        "category": "ann_ret nlp",
-        "year" : "2023",
-        "Authors": "Ilaria Manco, SeungHeon Doh, Benno Weck, Minz Won, Yixiao Zhang, Dmitry Bogdanov, Yusong Wu, Ke Chen, Philip Tovstogan, Emmanouil Benetos, Elio Quinton, George Fazekas, Juhan Nam",
-        "bookTitle": "Neural Information Processing Systems, Track Datasets and Benchmarks (NeurIPS), 2023 (Submitted)",
-        "bookCategory": "Conferences and Workshops",
-        "material" : {
-            "update soon": "#"
         }
     },{
         "title": "Toward Universal Text-to-Music Retrieval",

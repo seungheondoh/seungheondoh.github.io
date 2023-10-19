@@ -14,7 +14,7 @@ const Prof = ({ProfData}) => {
                                     <div className="info_div">
                                         <h4>{item.title}</h4>
                                         <p className='p'> I'm a Ph.D Student at <a href='https://mac.kaist.ac.kr/'>Music and Audio Computing Lab</a>, advised by <a href="https://mac.kaist.ac.kr/~juhan/">Prof. Juhan Nam</a>. <br/> 
-                                        I'm working on Music and Machine Learning. My research is centered on the capabilities of machines to perceive music, express musical experiences in natural language, and represent them visually. My research primarily revolves around the domain of representation learning in the context of music and multimodal media.
+                                        My research focuses on the machine's ability to listen to music, express music experience in natural language, and imagine visuals. A key aspect of my research lies in representation learning, particularly in bridging the gap between music and multi-modal media. Presently, my primary focus is on <b>multi-turn conversation</b> and <b>multi-modality</b>. I aim for machines to comprehend diverse modalities during conversations, particularly in the context of music generation and retrieval, facilitating the discovery of music through dialogue.
                                         </p>
 
                                         <div className="btn_div">
