@@ -1,6 +1,7 @@
 after commit, deploy
 
 ```
+nvm use 16
 git commit origin main
 npm run deploy
 ```

@@ -4,7 +4,7 @@
         "category": "ann_ret nlp",
         "year" : "2024",
         "Authors": "SeungHeon Doh, Minhee Lee, Dasaem Jeong, Juhan Nam",
-        "bookTitle": "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024 (Submitted)",
+        "bookTitle": "Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024",
         "bookCategory": "Conferences and Workshops",
         "material" : {
             "demo": "https://seungheondoh.github.io/music-text-representation-pp-demo/"

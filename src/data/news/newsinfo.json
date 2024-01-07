@@ -1,15 +1,15 @@
 [
     {
-        "date":"Sep-2023",
-        "contents":"One paper has been submitted to ICASSP 2024 (Proceedings)",
+        "date":"Jan-2024",
+        "contents":"I'm starting a research internship at Chartmetric. Collaborate with Sung Cho and Akash Mukherjee",
+        "link": "https://chartmetric.com/"
+    },{
+        "date":"Dec-2023",
+        "contents":"One paper has been accepted to ICASSP 2024 (Proceedings)",
         "link": ""
     },{
-        "date":"May-2023",
-        "contents":"LP-MusicCaps: LLM-based Pseudo Music Captioning has been accepted to ISMIR 2023 (Proceedings)",
-        "link": ""
-    },{
-        "date":"Mar-2023",
-        "contents":"Musical Word Embedding for Music Tagging and Retrieval has been submitted to IEEE TASLP",
+        "date":"Dec-2023",
+        "contents":"One paper has been accepted to IEEE/ACM Transactions on Audio Speech and Language Processing (TASLP)",
         "link": ""
     },{
         "date":"Dec-2022",
