@@ -1,6 +1,13 @@
 [
     {
         "id": "1",
+        "institution": "Adobe Inc.",
+        "location": "San Francisco, CA, United States",
+        "position": "Research Intern in Music Generation AI Team",
+        "duration": "Jun 2024 - Aug 2024",
+        "advisor": " (Advisor: Nicholas J. Bryan, Ge Zhu)"
+    },{
+        "id": "1",
         "institution": "Chartmetric",
         "location": "Remote",
         "position": "Research Intern in Audio Analysis Team",

@@ -4,17 +4,7 @@ import ReactMarkdown from 'react-markdown'
 import Header from '../blocks/header/Header';
 import Footer from '../blocks/footer/Footer';
 
-// import file from '../assets/blog/speech_to_music/contents.md';
-
 const Contents = () => {
-    // const [markdown, setMarkdown] = useState("");
-
-    // useEffect(() => {
-    //     fetch(file)
-    //     .then((res) => res.text())
-    //     .then((text) => setMarkdown(text));
-    // }, []);
-
     document.body.classList.add( 'blog' );
     document.body.classList.add( 'bg-fixed' );
     document.body.classList.add( 'bg-line' );

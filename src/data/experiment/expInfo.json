@@ -25,33 +25,37 @@
     ],
     "Talk" : [
         {
+            "date":"Aug-2024",
+            "contents":"Connecting Music and Natural Language, TikTok/ByteDance (Host: Ju-Chiang Wang)",
+            "link": ""
+        },{
             "date":"Jun-2024",
-            "contents":"LLM-Powered Music Annotation and Retrieval, KAIST",
+            "contents":"LLM-Powered Music Annotation and Retrieval, KAIST (Host: Juhan Nam)",
             "link": ""
         },{
             "date":"Mar-2024",
-            "contents":"Text-based Music Annotation and Retrieval, UC San-Diego",
+            "contents":"Text-based Music Annotation and Retrieval, UC San-Diego (Host: Hao-Wen Dong)",
             "link": ""
         },{
             "date":"Mar-2023",
-            "contents":"Multimodal Music Retrieval for Listener and Contents Creator, Seoul Univ",
+            "contents":"Multimodal Music Retrieval for Listener and Contents Creator, Seoul Univ (Host: Junghyun Koo)",
             "link": ""
         },{
             "date":"Dec-2022",
-            "contents":"Music Informational Retrieval with Natural Language Processing, YONSEI Univ.",
+            "contents":"Music Informational Retrieval with Natural Language Processing, YONSEI Univ. (Host: Saebyul Park)",
             "link": ""
-        },{
-            "date":"May-2020",
-            "contents":"Digital Signal Processing and Speech Recognition, SK planet",
-            "link": "https://www.youtube.com/watch?v=RxbkEjV7c0o&t=111s"
-        },{
-            "date":"Aug-2019",
-            "contents":"Pycon Tutorial: Music and Deep Learning, PyconKR",
-            "link": "https://github.com/Dohppak/Pycon_Tutorial_Music_DeepLearing"
         }
     ],
     "Service" : [
         {
+            "date":"2022-Current",
+            "contents":"Reviewer, IEEE ICASSP, IEEE TASLP, ISMIR, ICML, NeurIPS",
+            "link": ""
+        },{
+            "date":"2024-Nov",
+            "contents":"Organizing Committee, NLP4MUSA 2024, 3rd Workshop on NLP for Music and Audio, co-located with ISMIR'2024",
+            "link": "https://sites.google.com/view/nlp4musa-2024/home"
+        },{
             "date":"Sep-2020",
             "contents":"Korean translator, NYU Deep Learning DS-GA 1008, Yann LeCun & Alfredo Canziani",
             "link": "https://github.com/Atcold/pytorch-Deep-Learning"
