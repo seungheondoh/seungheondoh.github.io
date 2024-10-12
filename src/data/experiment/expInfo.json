@@ -48,11 +48,11 @@
     ],
     "Service" : [
         {
-            "date":"2022-Current",
+            "date":"-Current",
             "contents":"Reviewer, IEEE ICASSP, IEEE TASLP, ISMIR, ICML, NeurIPS",
             "link": ""
         },{
-            "date":"2024-Nov",
+            "date":"Nov-2024",
             "contents":"Organizing Committee, NLP4MUSA 2024, 3rd Workshop on NLP for Music and Audio, co-located with ISMIR'2024",
             "link": "https://sites.google.com/view/nlp4musa-2024/home"
         },{
