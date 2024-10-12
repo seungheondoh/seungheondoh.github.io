@@ -3,7 +3,7 @@ import Isotope from 'isotope-layout';
 import LinkButton from '../../components/button/LinkButton';
 import PublicationMenuData from '../../data/publication/publicationMenu.json';
 import PublicationItemData from '../../data/publication/publicationItems.json';
-
+import TutorialItemData from '../../data/publication/tutorialItems.json';
 
 class PublicationTable extends Component {
     constructor( props ) {
@@ -12,7 +12,7 @@ class PublicationTable extends Component {
 
         this.state = {
             selected: 0,
-            list: PublicationMenuData
+            list: [...PublicationMenuData, ...TutorialItemData]
         };
     }
 
@@ -56,6 +56,26 @@ class PublicationTable extends Component {
         return (
             <div className="publicationTable spacer p-bottom-lg">
                 <div className="wrapper">
+                    <h4>Tutorials</h4>
+                    <div className="publicationTable-items">
+                        {TutorialItemData && TutorialItemData.map((item, key) => (
+                            <div key={key} title={item.title} className="publicationTable-item active">
+                                <h6>{item.title}</h6>
+                                <p className='no-line-hight'>{item.Authors}</p>
+                                <p className="date">{item.bookTitle}</p>
+                                {item.material && Object.keys(item.material).map((key_name, index) => (
+                                    <LinkButton 
+                                        key={index}
+                                        keyword={key_name} 
+                                        link={item.material[key_name]}
+                                        position=""
+                                        textcolor="has-white-color"
+                                        backgroundcolor="has-gray-dark-background-color"
+                                    />
+                                ))}
+                            </div>
+                        ))}
+                    </div>
                     <h4>Selected Publications</h4>
                     <ul className="publicationTable-filter">
                         { this.state.list.map( ( item, key ) => (

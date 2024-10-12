@@ -1,12 +1,12 @@
 [
     {
-        "date":"May-2024",
-        "contents":"I'm starting a research internship at Adobe. Collaborate with Nicholas J. Bryan and Ge Zhu",
+        "date":"Nov-2024",
+        "contents":"@ISMIR'24, I will be presenting one tutorial (Connecting Music Audio and Natural Language), a paper (LP-dialog), and co-organizing a workshop (NLP4MusA).",
         "link": ""
     },{
-        "date":"April-2024",
-        "contents":"One paper has been submitted to ISMIR 2024 (Proceedings)",
-        "link": ""
+        "date":"May-2024",
+        "contents":"I'm starting a research internship at Adobe. Collaborate with Nicholas J. Bryan and Ge Zhu",
+        "link": "https://research.adobe.com/research/audio/"
     },{
         "date":"Jan-2024",
         "contents":"I'm starting a research internship at Chartmetric. Collaborate with Keunwoo Choi",
@@ -14,14 +14,14 @@
     },{
         "date":"Dec-2022",
         "contents":"I'm starting a research internship at NaverCorp (Now AI Team). Collaborate with Jeong Choi",
-        "link": "https://scholar.google.co.kr/citations?user=0r1yuiMAAAAJ&hl=ko"
+        "link": "https://github.com/naver-ai"
     },{
         "date":"May-2022",
         "contents":"As a visiting ph.D student, I will visit the NYU Data Science Center. Collaborate with Prof. Kyunghyun Cho.",
         "link": "https://kyunghyuncho.me/"
     },{
         "date":"Jul-2021",
-        "contents":"I'm starting a research internship at ByteDance (Speech, Audio, and Music Intelligence Team). Collaborate with Keunwoo Choi, and MinzWon",
-        "link": "https://keunwoochoi.github.io/"
+        "contents":"I'm starting a research internship at ByteDance/Tiktok (Speech, Audio, and Music Intelligence Team). Collaborate with Keunwoo Choi, and MinzWon",
+        "link": "https://www.bytedance.com/en//"
     }
 ]
