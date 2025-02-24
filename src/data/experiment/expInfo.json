@@ -26,6 +26,10 @@
     "Talk" : [
         {
             "date":"Aug-2024",
+            "contents":"Connecting Music and Large Language Model, Mix.Audio (Host: Jongpil Lee)",
+            "link": ""
+        },{
+            "date":"Aug-2024",
             "contents":"Connecting Music and Natural Language, TikTok/ByteDance (Host: Ju-Chiang Wang)",
             "link": ""
         },{
@@ -51,6 +55,10 @@
             "date":"-Current",
             "contents":"Reviewer, IEEE ICASSP, IEEE TASLP, ISMIR, ICML, NeurIPS",
             "link": ""
+        },{
+            "date":"Sep-2025",
+            "contents":"Organizing Committee, Newcomer Initiative Chair, ISMIR 2025",
+            "link": "https://ismir2025.ismir.net/"
         },{
             "date":"Nov-2024",
             "contents":"Organizing Committee, NLP4MUSA 2024, 3rd Workshop on NLP for Music and Audio, co-located with ISMIR'2024",
