@@ -6,25 +6,25 @@
     },
     {
         "id": "2",
-        "title": "Annotation and Retrieval",
-        "filter": "ann_ret"
-    },
-    {
+        "title": "Multimodality",
+        "filter": "multimodal"
+    },{
         "id": "3",
-        "title": "Generation",
-        "filter": "gen"
+        "title": "Conversational Systems",
+        "filter": "conv_sys"
     },
     {
         "id": "4",
-        "title": "Language & Music",
-        "filter": "nlp"
+        "title": "Annotation",
+        "filter": "ann"
+    },
+    {
+        "id": "3",
+        "title": "Retrieval/Recommendation",
+        "filter": "ret_rec"
     },{
-        "id": "5",
-        "title": "Vision & Music",
-        "filter": "cv"
-    },{
-        "id": "6",
-        "title": "Audio & Music",
-        "filter": "audio"
+        "id": "4",
+        "title": "Generation",
+        "filter": "generation"
     }
 ]

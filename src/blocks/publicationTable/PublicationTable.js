@@ -3,7 +3,6 @@ import Isotope from 'isotope-layout';
 import LinkButton from '../../components/button/LinkButton';
 import PublicationMenuData from '../../data/publication/publicationMenu.json';
 import PublicationItemData from '../../data/publication/publicationItems.json';
-import TutorialItemData from '../../data/publication/tutorialItems.json';
 
 class PublicationTable extends Component {
     constructor( props ) {
@@ -12,7 +11,7 @@ class PublicationTable extends Component {
 
         this.state = {
             selected: 0,
-            list: [...PublicationMenuData, ...TutorialItemData]
+            list: [...PublicationMenuData]
         };
     }
 
