@@ -1,5 +1,17 @@
 [
     {
+        "title": "TALKPLAY: Multimodal Music Recommendation with Large Language Models",
+        "category": "ann_ret nlp",
+        "year" : "2025",
+        "Authors": "Seungheon Doh, Keunwoo Choi, and Juhan Nam",
+        "bookTitle": "ArXiv",
+        "bookCategory": "Conferences and Workshops",
+        "material" : {
+            "pdf": "https://arxiv.org/abs/2502.13713",
+            "dataset": "https://huggingface.co/datasets/talkpl-ai/talkplay-db-v1",
+            "demo": "https://talkpl.ai"
+        }
+    },{
         "title": "Music Discovery Dialogue Generation Using Human Intent Analysis and Large Language Model",
         "category": "ann_ret nlp",
         "year" : "2024",
@@ -7,6 +19,8 @@
         "bookTitle": "Proceedings of the 25th International Society for Music Information Retrieval Conference (ISMIR), 2024",
         "bookCategory": "Conferences and Workshops",
         "material" : {
+            "pdf": "https://arxiv.org/abs/2411.07439",
+            "dataset": "https://huggingface.co/collections/seungheondoh/lp-musicdialog-6734f28d42d8e0256cb23a1d",
             "demo": "https://ismir24-anonymous.github.io/lp-music-dialogs-demo/"
         }
     },{

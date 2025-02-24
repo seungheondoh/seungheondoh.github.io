@@ -1,7 +1,15 @@
 [
     {
+        "date":"Feb-2025",
+        "contents":"TalkPlay: Multimodal Music Recommendation with Large Language Models is uploaded on Arxiv.",
+        "link": "https://arxiv.org/abs/2502.13713"
+    },{
+        "date":"Feb-2025",
+        "contents":"I have completed my Ph.D. journey! The title of my doctoral dissertation is 'Connecting Audio and Natural Language for Music Annotation'. After a year of postdoctoral research (due to military service), I plan to enter the job market next year!.",
+        "link": ""
+    },{
         "date":"Nov-2024",
-        "contents":"@ISMIR'24, I will be presenting one tutorial (Connecting Music Audio and Natural Language), a paper (LP-dialog), and co-organizing a workshop (NLP4MusA).",
+        "contents":"@ISMIR'24, I will be presenting one tutorial, one paper (LP-dialog), and co-organizing a workshop (NLP4MusA).",
         "link": "https://mulab-mir.github.io/music-language-tutorial/intro.html"
     },{
         "date":"May-2024",

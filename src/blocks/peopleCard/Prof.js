@@ -13,7 +13,7 @@ const Prof = ({ProfData}) => {
                                     <img className="prof_img" src={process.env.PUBLIC_URL + `/assets/img/people/`+ item.img} alt={item.title}/>
                                     <div className="info_div">
                                         <h4>{item.title}</h4>
-                                        <p className='p'> I'm a Ph.D Student at <a href='https://mac.kaist.ac.kr/'>Music and Audio Computing Lab</a>, advised by <a href="https://mac.kaist.ac.kr/~juhan/">Prof. Juhan Nam</a>. <br/> 
+                                        <p className='p'> I'm a postdoctoral researcher at <a href='https://mac.kaist.ac.kr/'>Music and Audio Computing Lab</a>, advised by <a href="https://mac.kaist.ac.kr/~juhan/">Prof. Juhan Nam</a>. <br/> 
                                         My research focuses on the machine's ability to listen to music, express music experience in natural language, and imagine visuals. A key aspect of my research lies in representation learning, particularly in bridging the gap between music and multi-modal media. Presently, my primary focus is on <b>multi-turn conversation</b> and <b>multi-modality</b>. I aim for machines to comprehend diverse modalities during conversations, particularly in the context of music generation and retrieval, facilitating the discovery of music through dialogue.
                                         </p>
 
