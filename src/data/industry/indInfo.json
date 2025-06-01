@@ -5,7 +5,7 @@
         "location": "Tokyo, Japan",
         "position": "Research Intern in Music Foundation Model Team",
         "duration": "April 2025 - Present",
-        "advisor": " (Advisor: Junghyun Koo, Marco A. Martínez-Ramírez, Wei-Hsiang Liao, Juhan Nam, Yuki Mitsufuji)"
+        "advisor": " (Advisor: Junghyun Koo, Marco A. Martínez-Ramírez, Wei-Hsiang Liao)"
     },
     {
         "id": "1",
@@ -33,7 +33,7 @@
     },
     {
         "id": "3",
-        "institution": "Computational Intelligence, Vision, and Robotics Lab (CILVR)",
+        "institution": "NYU, Computational Intelligence, Vision, and Robotics Lab (CILVR)",
         "location": "Center for Data Science, New York University, United States",
         "position": "Visiting Student",
         "duration": "Jun 2022 - Aug 2022",
@@ -41,7 +41,7 @@
     },
     {
         "id": "4",
-        "institution": "ByteDance",
+        "institution": "ByteDance/TikTok",
         "location": "Remote (due to COVID-19)",
         "position": "Research Intern in Speech, Audio & Music Intelligence Team",
         "duration": "Jul 2021 - Jan 2022",
@@ -49,7 +49,7 @@
     },
     {
         "id": "5",
-        "institution": "Music and Audio Research Laboratory (MARL)",
+        "institution": "NYU, Music and Audio Research Laboratory (MARL)",
         "location": "Steinhardt, New York University, United States",
         "position": "Visiting Student",
         "duration": "Dec 2019 - Feb 2020",
