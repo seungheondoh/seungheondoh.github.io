@@ -6,25 +6,12 @@
     },
     {
         "id": "2",
-        "title": "Multimodality",
-        "filter": "multimodal"
-    },{
-        "id": "3",
-        "title": "Conversational Systems",
-        "filter": "conv_sys"
-    },
-    {
-        "id": "4",
-        "title": "Annotation",
-        "filter": "ann"
+        "title": "Language Models",
+        "filter": "lm"
     },
     {
         "id": "3",
-        "title": "Retrieval/Recommendation",
-        "filter": "ret_rec"
-    },{
-        "id": "4",
-        "title": "Generation",
-        "filter": "gen"
+        "title": "Representation Learning",
+        "filter": "rep_learn"
     }
 ]

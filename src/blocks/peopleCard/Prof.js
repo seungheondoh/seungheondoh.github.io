@@ -39,13 +39,12 @@ const Prof = ({ProfData}) => {
                                             }
 
                                         </div>
-
                                     </div>
                                 </div>
                             );
                         })}
                     </div>
-                    <p className='p' style={{color: '#FF4D4D'}}> 🔥 Plan to enter the job market at 2026 March! 🔥</p>
+                    <p className='p' style={{textAlign: 'center', marginTop: '30px', marginBottom: '5px'}}> <b>🔥 Plan to enter the job market at 2026 March! 🔥</b></p>
                 </div>
             </div>
         </section>

@@ -1,35 +1,42 @@
 [
     {
-        "date":"Feb-2025",
-        "contents":"TalkPlay: Multimodal Music Recommendation with Large Language Models is uploaded on Arxiv.",
-        "link": "https://arxiv.org/abs/2502.13713"
-    },{
-        "date":"Feb-2025",
-        "contents":"I have completed my Ph.D. journey! The title of my doctoral dissertation is 'Connecting Audio and Natural Language for Music Annotation'. After a year of postdoctoral research (due to military service), I plan to enter the job market next year!.",
+        "date": "April-2025",
+        "contents": "I'm starting a research internship at SonyAI. Collaborate with Junghyun Koo, Marco A. Martínez-Ramírez, Wei-Hsiang Liao",
+        "link": "https://ai.sony"
+    },
+    {
+        "date": "Mar-2025",
+        "contents": "🎉LLM4Music proposal has been selected for the KAIST post-doctoral Fellowship. It will receive up to 56,000 USD in funding support",
+        "link": "https://www.kaist.ac.kr/kr/html/footer/0814.html?mode=V&no=2173bbf76f962af21132db6a2257046c&GotoPage=1"
+    },
+    {
+        "date": "Feb-2025",
+        "contents": "I have completed my Ph.D. journey! The title of my doctoral dissertation is 'Connecting Audio and Natural Language for Music Annotation and Retrieval'.",
         "link": ""
-    },{
-        "date":"Nov-2024",
-        "contents":"at ISMIR'24, I will be presenting one tutorial, one paper (LP-MusicDialog), and co-organizing a workshop (NLP4MusA).",
-        "link": "https://mulab-mir.github.io/music-language-tutorial/intro.html"
-    },{
-        "date":"May-2024",
-        "contents":"I'm starting a research internship at Adobe. Collaborate with Nicholas J. Bryan and Ge Zhu",
+    },
+    {
+        "date": "May-2024",
+        "contents": "I'm starting a research internship at Adobe. Collaborate with Nicholas J. Bryan and Ge Zhu",
         "link": "https://research.adobe.com/research/audio/"
-    },{
-        "date":"Jan-2024",
-        "contents":"I'm starting a research internship at Chartmetric. Collaborate with Keunwoo Choi",
+    },
+    {
+        "date": "Jan-2024",
+        "contents": "I'm starting a research internship at Chartmetric. Collaborate with Keunwoo Choi",
         "link": "https://chartmetric.com/"
-    },{
-        "date":"Dec-2022",
-        "contents":"I'm starting a research internship at NaverCorp (Now AI Team). Collaborate with Jeong Choi",
+    },
+    {
+        "date": "Dec-2022",
+        "contents": "I'm starting a research internship at NaverCorp (Now AI Team). Collaborate with Jeong Choi",
         "link": "https://github.com/naver-ai"
-    },{
-        "date":"May-2022",
-        "contents":"As a visiting ph.D student, I will visit the NYU Data Science Center. Collaborate with Prof. Kyunghyun Cho.",
+    },
+    {
+        "date": "May-2022",
+        "contents": "As a visiting ph.D student, I will visit the NYU Data Science Center. Collaborate with Prof. Kyunghyun Cho.",
         "link": "https://kyunghyuncho.me/"
-    },{
-        "date":"Jul-2021",
-        "contents":"I'm starting a research internship at ByteDance/Tiktok (Speech, Audio, and Music Intelligence Team). Collaborate with Keunwoo Choi, and MinzWon",
+    },
+    {
+        "date": "Jul-2021",
+        "contents": "I'm starting a research internship at ByteDance/Tiktok (Speech, Audio, and Music Intelligence Team). Collaborate with Keunwoo Choi, and MinzWon",
         "link": "https://www.bytedance.com/en//"
     }
 ]
