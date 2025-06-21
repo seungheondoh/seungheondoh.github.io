@@ -1,17 +1,17 @@
 [
     {
-        "id":1,
-        "title":"Seungheon Doh",
-        "describtion":"I'm a Ph.D Student at Music and Audio Computing Lab, working on Music, ML/DL.",
-        "detail": "I'm working on Music and Machine Learning, with a specific focus on advancing our understanding of machines' ability to perceive music, articulate musical experiences using natural language, and generate visual representations. My primary research efforts are concentrated on advancing the domain of representation learning for music and multimodal media",
-        "img":"Seungheon_Doh.jpg",
-        "ko_name":"도승헌",
-        "en_name":"Seungheon Doh",
-        "material":{
-            "google scholar":"https://scholar.google.com/citations?user=MCkggcgAAAAJ&hl",
-            "github":"https://github.com/seungheondoh",
-            "linkedin":"https://www.linkedin.com/in/seungheondoh//",
-            "twitter":"https://twitter.com/SeungHeon_Doh"
+        "id": 1,
+        "title": "Seungheon Doh",
+        "describtion": "I'm a Ph.D Student at Music and Audio Computing Lab, working on Music, ML/DL.",
+        "detail": "My research focuses on developing music intelligence for understanding, retrieval, generation, and post-production tasks. This work is structured around three interconnected research directions. First, I investigate {multi-modal representation learning} methods that establish semantic correspondences between music and complementary modalities including natural language, visual content, and other media formats. These representations serve as foundational components for transfer learning in music-related applications. Second, I explore {multi-modal large language models} (MLLMs) for music applications, with a focus on three key subtopics: reasoning, chain-of-thought processes, and tool calling, leveraging the intermediate generation capabilities of language models. Third, I design and evaluate {conversational interfaces} through real-world applications, focusing on user experience, usability, and satisfaction in diverse music-related scenarios, ensuring that the developed technologies meet practical needs and deliver measurable value to end users.",
+        "img": "Seungheon_Doh.jpg",
+        "ko_name": "도승헌",
+        "en_name": "Seungheon Doh",
+        "material": {
+            "google scholar": "https://scholar.google.com/citations?user=MCkggcgAAAAJ&hl",
+            "github": "https://github.com/seungheondoh",
+            "linkedin": "https://www.linkedin.com/in/seungheondoh/",
+            "twitter": "https://twitter.com/SeungHeon_Doh"
         }
     }
 ]
