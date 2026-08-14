@@ -56,6 +56,8 @@ main > section {
   scroll-margin-top: 1rem;
 }
 
+#news { padding-top: 0; }
+
 .profile {
   display: grid;
   grid-template-columns: 145px minmax(0, 1fr);
@@ -202,6 +204,9 @@ strong { font-weight: 400; }
 .internship-note-label { font-weight: 600; }
 
 .expandable-details { margin-top: .8rem; }
+
+.news-more { margin-top: 0; }
+.news-more summary { padding-block: 0; }
 
 .expandable-details summary {
   display: flex;
