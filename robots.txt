@@ -2,3 +2,7 @@ User-agent: *
 Allow: /
 
 Sitemap: https://seungheondoh.github.io/sitemap.xml
+
+# The blog is a separate Pages project under /blog/. Crawlers only read
+# robots.txt from the domain root, so its sitemap has to be listed here.
+Sitemap: https://seungheondoh.github.io/blog/sitemap.xml
